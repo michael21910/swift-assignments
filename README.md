@@ -21,3 +21,6 @@ The discription of the problems are as follows:
             * var rectangleA = Rectangle(length: 10, width: 20)
             * rectangleA.perimeter //return 60
             * rectangleA.area // return 200
+  
+## License
+[MIT](LICENSE) © Tsuen Hsueh
